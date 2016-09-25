@@ -1,6 +1,8 @@
 # My procedural ruby blackjack game
 # Learning the basics
 
+#Hi Gary! This is Karin. See you in a few weeks.
+
 def calculate_total(cards)
   # [['H', '3'], ['S', 'Q'], ...]
   arr = cards.map{|e| e[1] }
